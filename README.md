@@ -1,4 +1,4 @@
-# Armous Dataset: HTTP Traffic Classification
+# Armous Dataset: Semi-Synthetic HTTP Traffic Derived from Real-World Proxy Captures for LLM Scraper Detection
 
 ## Overview
 
