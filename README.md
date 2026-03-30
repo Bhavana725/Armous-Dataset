@@ -128,7 +128,7 @@ If you use this dataset in your research, please cite it as follows:
 
 ```bibtex
 @misc{armous_dataset_2026,
-  author = {Bhavana725},
+  author = {G.Bhavana,D. Thallapalli, and S. Saravanan},
   title = {Armous Dataset: HTTP Traffic Classification Dataset},
   year = {2026},
   publisher = {GitHub},
